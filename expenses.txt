@@ -1,0 +1,5 @@
+Rent,Utility,21/3,1500
+Rent,Material,21/2,3000
+Rent,Salary,21/1,2000
+Rent,Utility,30/09,1000
+Rent,Utility,25/12,50
